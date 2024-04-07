@@ -13,6 +13,8 @@ Big thanks to [@DataWithDanny](https://github.com/datawithdanny) for the fun SQL
 * [🪝 Case Study #6 - Clique Bait](#-case-study-6---clique-bait)
 * [🏔️ Case Study #7 - Balanced Tree Clothing Co.](#%EF%B8%8F-case-study-7---balanced-tree-clothing-co)
 * [🍊 Case Study #8 - Fresh Segments](#-case-study-8---fresh-segments)
+* [🤝 Contribution](#-contribution)
+* [🫶 Support](#-support)
 
 ## 🍜 Case Study #1 - Danny's Diner
 <p align="center">

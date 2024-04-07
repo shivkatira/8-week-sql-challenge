@@ -3,11 +3,11 @@
 <img src="../img/1.png" align="center" width="400" height="400" >
 
 ## 📚 Table of Contents
-* [Background](#📌-background)
-* [Full Problem](#🧩-full-problem)
-* [Case Study Questions](#❓-case-study-questions)
-* [My Solution](#💡-my-solution)
-* [All Case Studies](#🏡-all-case-studies)
+* [Background](#-background)
+* [Full Problem](#-full-problem)
+* [Case Study Questions](#-case-study-questions)
+* [My Solution](#-my-solution)
+* [All Case Studies](#-all-case-studies)
 
 ## 📌 Background
 
