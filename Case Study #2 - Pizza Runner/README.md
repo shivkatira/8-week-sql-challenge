@@ -16,7 +16,7 @@ Inspired by a vision of retro styling and pizza, Danny launches Pizza Runner, co
 
 Check out full problem [here](https://8weeksqlchallenge.com/case-study-2/).
 
-## ↗️ Sections
+## 📁 Sections
 
 - [Data Cleaning](Data%20Cleaning/README.md)
 - [A. Pizza Metrics](A%20-%20Pizza%20Metrics/README.md)
