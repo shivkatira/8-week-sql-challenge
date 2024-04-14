@@ -4,8 +4,8 @@
 
 ## 📚 Table of Contents
 
-* [My Solution](#💡-my-solution)
-* [Case Study #2 - Pizza Runner](#🍕-case-study-2---pizza-runner)
+* [My Solution](#-my-solution)
+* [Case Study #2 - Pizza Runner](#-case-study-2---pizza-runner)
 
 ## 💡 My Solution
 

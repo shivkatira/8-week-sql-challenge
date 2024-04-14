@@ -3,10 +3,10 @@
 <img src="../img/2.png" align="center" width="400" height="400" >
 
 ## 📚 Table of Contents
-* [Background](#📌-background)
-* [Full Problem](#🧩-full-problem)
-* [Sections](#↗️-sections)
-* [All Case Studies](#🏡-all-case-studies)
+* [Background](#-background)
+* [Full Problem](#-full-problem)
+* [Sections](#-sections)
+* [All Case Studies](#-all-case-studies)
 
 ## 📌 Background
 

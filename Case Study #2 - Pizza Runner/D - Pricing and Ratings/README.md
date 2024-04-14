@@ -4,9 +4,9 @@
 
 ## 📚 Table of Contents
 
-* [Case Study Questions](#❓-case-study-questions)
-* [My Solution](#💡-my-solution)
-* [Case Study #2 - Pizza Runner](#🍕-case-study-2---pizza-runner)
+* [Case Study Questions](#-case-study-questions)
+* [My Solution](#-my-solution)
+* [Case Study #2 - Pizza Runner](#-case-study-2---pizza-runner)
 
 ## ❓ Case Study Questions
 
@@ -14,7 +14,7 @@
 2. [What if there was an additional $1 charge for any pizza extras?](#q2-what-if-there-was-an-additional-1-charge-for-any-pizza-extras)
     - Add cheese is $1 extra
 3. [The Pizza Runner team now wants to add an additional ratings system that allows customers to rate their runner, how would you design an additional table for this new dataset - generate a schema for this new table and insert your own data for ratings for each successful customer order between 1 to 5.](#q3-the-pizza-runner-team-now-wants-to-add-an-additional-ratings-system-that-allows-customers-to-rate-their-runner-how-would-you-design-an-additional-table-for-this-new-dataset---generate-a-schema-for-this-new-table-and-insert-your-own-data-for-ratings-for-each-successful-customer-order-between-1-to-5)
-4. [Using your newly generated table - can you join all of the information together to form a table which has the following information for successful deliveries?](#q4-if-a-meat-lovers-pizza-was-12-and-vegetarian-10-fixed-prices-with-no-cost-for-extras-and-each-runner-is-paid-030-per-kilometre-traveled---how-much-money-does-pizza-runner-have-left-over-after-these-deliveries)
+4. [Using your newly generated table - can you join all of the information together to form a table which has the following information for successful deliveries?](#q4-using-your-newly-generated-table---can-you-join-all-of-the-information-together-to-form-a-table-which-has-the-following-information-for-successful-deliveries)
     - customer_id
     - order_id
     - runner_id
