@@ -4,9 +4,9 @@
 
 ## 📚 Table of Contents
 
-* [Case Study Questions](#❓-case-study-questions)
-* [My Solution](#💡-my-solution)
-* [Case Study #2 - Pizza Runner](#🍕-case-study-2---pizza-runner)
+* [Case Study Questions](#-case-study-questions)
+* [My Solution](#-my-solution)
+* [Case Study #2 - Pizza Runner](#-case-study-2---pizza-runner)
 
 ## ❓ Case Study Questions
 
