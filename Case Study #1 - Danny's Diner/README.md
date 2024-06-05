@@ -344,22 +344,30 @@ ORDER BY
 ### Join All The Things - Create a table that has these columns: customer_id, order_date, product_name, price, member (Y/N).
 
 ```SQL
+CREATE TABLE full_view AS (
+    SELECT 
+        customer_id, -- Select customer ID
+        order_date, -- Select order date
+        product_name, -- Select product name
+        price, -- Select product price
+        CASE 
+            WHEN order_date < join_date THEN 'N' -- If order date is before join date, customer is not a member
+            WHEN order_date >= join_date THEN 'Y' -- If order date is on or after join date, customer is a member
+            ELSE 'N' -- Default to 'N' if no other condition matches
+        END AS member -- Determine membership status based on order date and join date
+    FROM 
+        dannys_diner.sales -- Use sales table for customer transactions
+        LEFT JOIN dannys_diner.menu USING (product_id) -- Join with menu table using product ID to get product details
+        LEFT JOIN dannys_diner.members USING (customer_id) -- Join with members table using customer ID to get membership details
+    ORDER BY 
+        customer_id, -- Sort results by customer ID for organized presentation
+        order_date -- Sort results by order date for organized presentation
+);
+
 SELECT 
-    customer_id, -- Select customer ID
-    order_date, -- Select order date
-    product_name, -- Select product name
-    price, -- Select price
-    CASE 
-        WHEN order_date < join_date THEN 'N' -- If order date is before join date, mark as non-member
-        WHEN order_date >= join_date THEN 'Y' -- If order date is on or after join date, mark as member
-        ELSE 'N' -- Otherwise, mark as non-member
-    END AS member -- Create a column indicating if the customer is a member (Y/N)
+    * 
 FROM 
-    dannys_diner.sales -- Use sales table to get customer transactions
-    LEFT JOIN dannys_diner.menu USING(product_id) -- Join with menu table using product ID
-    LEFT JOIN dannys_diner.members USING (customer_id) -- Join with members table using customer ID
-ORDER BY 
-    customer_id, order_date; -- Sort results by customer ID and order date
+    full_view; -- Select all columns from the newly created full_view table
 ```
 
 | customer_id | order_date               | product_name | price | member |

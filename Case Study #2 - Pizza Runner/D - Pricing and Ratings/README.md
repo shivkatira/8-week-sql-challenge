@@ -101,6 +101,17 @@ VALUES
 SELECT * FROM pizza_runner.customer_ratings;
 ```
 
+| order_id | ratings |
+| -------- | ------- |
+| 1        | 5       |
+| 2        | 1       |
+| 3        | 5       |
+| 4        | 2       |
+| 5        | 3       |
+| 7        | 4       |
+| 8        | 2       |
+| 10       | 5       |
+
 ### Q4. Using your newly generated table - can you join all of the information together to form a table which has the following information for successful deliveries?
 - customer_id
 - order_id
