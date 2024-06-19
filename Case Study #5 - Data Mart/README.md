@@ -3,11 +3,10 @@
 <img src="../img/5.png" align="center" width="400" height="400" >
 
 ## 📚 Table of Contents
-* [Background](#📌-background)
-* [Full Problem](#🧩-full-problem)
-* [Case Study Questions](#❓-case-study-questions)
-* [My Solution](#💡-my-solution)
-* [All Case Studies](#🏡-all-case-studies)
+* [Background](#-background)
+* [Full Problem](#-full-problem)
+* [Sections](#-sections)
+* [All Case Studies](#-all-case-studies)
 
 ## 📌 Background
 
@@ -17,13 +16,12 @@ Danny's venture, Data Mart, undergoes a sustainability overhaul in June 2020, pr
 
 Check out full problem [here](https://8weeksqlchallenge.com/case-study-5/).
 
-## ❓ Case Study Questions
+## 📁 Sections
 
-### 🚧 Work-in-Progress🚧
-
-## 💡 My Solution
-
-### 🚧 Work-in-Progress🚧
+- [1. Data Cleansing Steps](1.%20Data%20Cleansing%20Steps/README.md)
+- [2. Data Exploration](2.%20Data%20Exploration/README.md)
+- [3. Before & After Analysis](3.%20Before%20&%20After%20Analysis/README.md)
+- [4. Bonus Question](4.%20Bonus%20Question/README.md)
 
 ## 🏡 All Case Studies
 
