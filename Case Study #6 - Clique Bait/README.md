@@ -3,11 +3,10 @@
 <img src="../img/6.png" align="center" width="400" height="400" >
 
 ## 📚 Table of Contents
-* [Background](#📌-background)
-* [Full Problem](#🧩-full-problem)
-* [Case Study Questions](#❓-case-study-questions)
-* [My Solution](#💡-my-solution)
-* [All Case Studies](#🏡-all-case-studies)
+* [Background](#-background)
+* [Full Problem](#-full-problem)
+* [Sections](#-sections)
+* [All Case Studies](#-all-case-studies)
 
 ## 📌 Background
 
@@ -17,13 +16,12 @@ Danny expands his entrepreneurial endeavors to seafood with Clique Bait, aiming 
 
 Check out full problem [here](https://8weeksqlchallenge.com/case-study-6/).
 
-## ❓ Case Study Questions
+## 📁 Sections
 
-### 🚧 Work-in-Progress🚧
-
-## 💡 My Solution
-
-### 🚧 Work-in-Progress🚧
+- [1. Enterprise Relationship Diagram](1.%20Enterprise%20Relationship%20Diagram/README.md)
+- [2. Digital Analysis](2.%20Digital%20Analysis/README.md)
+- [3. Product Funnel Analysis](3.%20Product%20Funnel%20Analysis/README.md)
+- [4. Campaigns Analysis](4.%20Campaigns%20Analysis/README.md)
 
 ## 🏡 All Case Studies
 
