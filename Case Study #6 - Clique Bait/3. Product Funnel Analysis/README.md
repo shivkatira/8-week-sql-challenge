@@ -1,4 +1,4 @@
-# 🪝 3. Product Funnel Analysis
+# 🎣 3. Product Funnel Analysis
 <p align="center">
 <img src="../../img/6.png" align="center" width="400" height="400" >
 
@@ -322,7 +322,7 @@ FROM
 | ----------------------------- |
 | 75.93                         |
 
-## 🪝 Case Study #6 - Clique Bait
+## 🎣 Case Study #6 - Clique Bait
 
 Curious for more? Get your hands on all the sections [here](../README.md).
 

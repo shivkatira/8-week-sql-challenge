@@ -1,4 +1,4 @@
-# 🧺 Case Study #5 - Data Mart
+# 🛒 Case Study #5 - Data Mart
 <p align="center">
 <img src="../img/5.png" align="center" width="400" height="400" >
 

@@ -1,4 +1,4 @@
-# 🧑‍💻 8-Week SQL Challenge
+# 👨‍💻 8-Week SQL Challenge
 
 This GitHub repository holds my solutions for the [#8WeekSQLChallenge](https://8weeksqlchallenge.com/) using  PostgreSQL 16.
 
@@ -9,12 +9,12 @@ Big thanks to [@DataWithDanny](https://github.com/datawithdanny) for the fun SQL
 * [🍕 Case Study #2 - Pizza Runner](#-case-study-2---pizza-runner)
 * [🥑 Case Study #3 - Foodie-Fi](#-case-study-3---foodie-fi)
 * [📊 Case Study #4 - Data Bank](#-case-study-4---data-bank)
-* [🧺 Case Study #5 - Data Mart](#-case-study-5---data-mart)
-* [🪝 Case Study #6 - Clique Bait](#-case-study-6---clique-bait)
+* [🛒 Case Study #5 - Data Mart](#-case-study-5---data-mart)
+* [🎣 Case Study #6 - Clique Bait](#-case-study-6---clique-bait)
 * [🏔️ Case Study #7 - Balanced Tree Clothing Co.](#%EF%B8%8F-case-study-7---balanced-tree-clothing-co)
 * [🍊 Case Study #8 - Fresh Segments](#-case-study-8---fresh-segments)
 * [🤝 Contribution](#-contribution)
-* [🫶 Support](#-support)
+* [👐 Support](#-support)
 
 ## 🍜 Case Study #1 - Danny's Diner
 <p align="center">
@@ -48,7 +48,7 @@ Danny pioneers Data Bank, integrating banking services with secure data storage,
 
 Check out my solution [here](Case%20Study%20%234%20-%20Data%20Bank/README.md).
 
-## 🧺 Case Study #5 - Data Mart
+## 🛒 Case Study #5 - Data Mart
 <p align="center">
 <img src="img/5.png" align="center" width="400" height="400" >
 
@@ -56,7 +56,7 @@ Danny's venture, Data Mart, undergoes a sustainability overhaul in June 2020, pr
 
 Check out my solution [here](Case%20Study%20%235%20-%20Data%20Mart/README.md).
 
-## 🪝 Case Study #6 - Clique Bait
+## 🎣 Case Study #6 - Clique Bait
 <p align="center">
 <img src="img/6.png" align="center" width="400" height="400" >
 
@@ -87,7 +87,7 @@ Want to help make this project even better? We'd love your contributions, bug re
 
 To contribute to this project, see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## 🫶 Support
+## 👐 Support
 Love this project? Show it some love with a ⭐️!
 
 © 2024 [Shiv Katira](https://github.com/shivkatira)

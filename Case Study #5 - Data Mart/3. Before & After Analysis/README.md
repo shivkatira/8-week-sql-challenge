@@ -1,4 +1,4 @@
-# 🧺 3. Before & After Analysis
+# 🛒 3. Before & After Analysis
 <p align="center">
 <img src="../../img/5.png" align="center" width="400" height="400" >
 
@@ -213,7 +213,7 @@ ORDER BY
 | 2019          | 2336594                          | 0.10                        | -20740294                          | -0.30                         |
 | 2020          | -26884188                        | -1.15                       | -152325394                         | -2.14                         |
 
-## 🧺 Case Study #5 - Data Mart
+## 🛒 Case Study #5 - Data Mart
 
 Curious for more? Get your hands on all the sections [here](../README.md).
 

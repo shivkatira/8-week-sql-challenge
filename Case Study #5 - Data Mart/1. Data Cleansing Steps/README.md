@@ -1,4 +1,4 @@
-# 🧺 1. Data Cleansing Steps
+# 🛒 1. Data Cleansing Steps
 <p align="center">
 <img src="../../img/5.png" align="center" width="400" height="400" >
 
@@ -117,7 +117,7 @@ SELECT * FROM data_mart.clean_weekly_sales; -- Select all records from the newly
 **Attention:**
 - Because presenting the entire output is impractical, the above table only displays the first 10 rows.
 
-## 🧺 Case Study #5 - Data Mart
+## 🛒 Case Study #5 - Data Mart
 
 Curious for more? Get your hands on all the sections [here](../README.md).
 

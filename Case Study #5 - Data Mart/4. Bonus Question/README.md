@@ -1,4 +1,4 @@
-# 🧺 4. Bonus Question
+# 🛒 4. Bonus Question
 <p align="center">
 <img src="../../img/5.png" align="center" width="400" height="400" >
 
@@ -399,7 +399,7 @@
 
 The implementation of sustainable packaging has had varied impacts across different platforms, regions, demographics, and customer types. By strategically focusing on areas of strength and leveraging loyalty programs, Data Mart can mitigate negative impacts and continue its commitment to sustainability without compromising sales performance. Further, ongoing analysis and customer engagement will be crucial in fine-tuning these strategies to optimize outcomes.
 
-## 🧺 Case Study #5 - Data Mart
+## 🛒 Case Study #5 - Data Mart
 
 Curious for more? Get your hands on all the sections [here](../README.md).
 

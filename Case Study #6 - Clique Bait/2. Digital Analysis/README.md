@@ -1,4 +1,4 @@
-# 🪝 2. Digital Analysis
+# 🎣 2. Digital Analysis
 <p align="center">
 <img src="../../img/6.png" align="center" width="400" height="400" >
 
@@ -253,7 +253,7 @@ LIMIT 3; -- Limit results to the top 3 products
 | Oyster    | 726            |
 | Crab      | 719            |
 
-## 🪝 Case Study #6 - Clique Bait
+## 🎣 Case Study #6 - Clique Bait
 
 Curious for more? Get your hands on all the sections [here](../README.md).
 

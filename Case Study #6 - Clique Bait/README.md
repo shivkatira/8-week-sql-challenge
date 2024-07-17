@@ -1,4 +1,4 @@
-# 🪝 Case Study #6 - Clique Bait
+# 🎣 Case Study #6 - Clique Bait
 <p align="center">
 <img src="../img/6.png" align="center" width="400" height="400" >
 

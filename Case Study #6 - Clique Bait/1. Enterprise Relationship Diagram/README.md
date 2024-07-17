@@ -1,4 +1,4 @@
-# 🪝 1. Enterprise Relationship Diagram
+# 🎣 1. Enterprise Relationship Diagram
 <p align="center">
 <img src="../../img/6.png" align="center" width="400" height="400" >
 
@@ -63,7 +63,7 @@ Ref: "clique_bait"."users"."cookie_id" < "clique_bait"."events"."cookie_id"
 
 <img src="../../img/case-study-6-clique-bait-erd.svg" align="center" height="400" >
 
-## 🪝 Case Study #6 - Clique Bait
+## 🎣 Case Study #6 - Clique Bait
 
 Curious for more? Get your hands on all the sections [here](../README.md).
 

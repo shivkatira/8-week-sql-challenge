@@ -1,4 +1,4 @@
-# 🧺 2. Data Exploration
+# 🛒 2. Data Exploration
 <p align="center">
 <img src="../../img/5.png" align="center" width="400" height="400" >
 
@@ -413,7 +413,7 @@ ORDER BY
 | 2020          | Retail   | 40.14                      | 36.00                      |
 | 2020          | Shopify  | 174.40                     | 179.00                     |
 
-## 🧺 Case Study #5 - Data Mart
+## 🛒 Case Study #5 - Data Mart
 
 Curious for more? Get your hands on all the sections [here](../README.md).
 

@@ -1,4 +1,4 @@
-# 🪝 4. Campaigns Analysis
+# 🎣 4. Campaigns Analysis
 <p align="center">
 <img src="../../img/6.png" align="center" width="400" height="400" >
 
@@ -280,7 +280,7 @@ ORDER BY
 | BOGOF - Fishing For Compliments   | 84.62                 | 64.27         | 15.53                     | 84.47                 |
 | Half Off - Treat Your Shellf(ish) | 80.10                 | 62.92         | 15.83                     | 84.17                 |
 
-## 🪝 Case Study #6 - Clique Bait
+## 🎣 Case Study #6 - Clique Bait
 
 Curious for more? Get your hands on all the sections [here](../README.md).
 
