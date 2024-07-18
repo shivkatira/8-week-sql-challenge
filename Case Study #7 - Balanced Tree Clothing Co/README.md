@@ -3,11 +3,10 @@
 <img src="../img/7.png" align="center" width="400" height="400" >
 
 ## 📚 Table of Contents
-* [Background](#📌-background)
-* [Full Problem](#🧩-full-problem)
-* [Case Study Questions](#❓-case-study-questions)
-* [My Solution](#💡-my-solution)
-* [All Case Studies](#🏡-all-case-studies)
+* [Background](#-background)
+* [Full Problem](#-full-problem)
+* [Sections](#-sections)
+* [All Case Studies](#-all-case-studies)
 
 ## 📌 Background
 
@@ -17,13 +16,13 @@ Danny ventures into fashion retail with Balanced Tree Clothing, entrusting data 
 
 Check out full problem [here](https://8weeksqlchallenge.com/case-study-7/).
 
-## ❓ Case Study Questions
+## 📁 Sections
 
-### 🚧 Work-in-Progress🚧
-
-## 💡 My Solution
-
-### 🚧 Work-in-Progress🚧
+- [High Level Sales Analysis](High%20Level%20Sales%20Analysis/README.md)
+- [Transaction Analysis](Transaction%20Analysis/README.md)
+- [Product Analysis](Product%20Analysis/README.md)
+- [Reporting Challenge](Reporting%20Challenge/README.md)
+- [Bonus Challenge](Bonus%20Challenge/README.md)
 
 ## 🏡 All Case Studies
 
